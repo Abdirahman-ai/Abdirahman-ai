@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 PREVIOUS VERSION ENDS HERE 
 --> 
 # 💫 About Me:
-I’m a software engineer with a passion for mobile and web development, always eager to learn and push my technical limits. My experience spans across Android development, data analysis, web development, and cloud services. I have worked on diverse projects, from building a drone delivery system to implementing a real estate management app and a multi-threaded HTTP server. My love for coding stems from the problem-solving and creative aspects of turning complex requirements into functional, reliable software solutions.
-
-I hold a degree in Computer Science from the University of Minnesota, and I'm actively pursuing new challenges in the tech industry. I enjoy working in collaborative environments, sharing knowledge, and continuously improving my skillset. Whether it’s a personal project or a client’s needs, I’m committed to delivering quality solutions
 
 
 ## 🌐 Socials:
