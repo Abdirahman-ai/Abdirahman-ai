@@ -26,8 +26,7 @@ PREVIOUS VERSION ENDS HERE
 - ⚡ Fun fact: ...
 
 
-<!--- # 💫 About Me:
--->
+# 💫 About Me:
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/) 
