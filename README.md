@@ -22,13 +22,14 @@ PREVIOUS VERSION ENDS HERE
 - 🌱 I’m currently learning **Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, and MySQL**.
 - 👯 I’m looking to collaborate on **web development, mobile development, and Spring Boot projects**.
 - 💬 Ask me about **Android development, web development, and problem-solving**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)**  
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdirahman-ai)
 
 ---
 
@@ -44,30 +45,27 @@ PREVIOUS VERSION ENDS HERE
 ### 🌐 Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Thymeleaf](https://img.shields.io/badge/thymeleaf-%23005C88.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23009800.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### 🛠 Backend & Databases:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🔧 Tools & Others:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react)
+### ⚙️ Other Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)  
 
 ---
 
-🚀 **Let's build amazing projects together!**  
+## 📊 GitHub Stats:
+![Abdirahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=radical)
 
+---
+
+🚀 **Let's build something amazing together!**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
