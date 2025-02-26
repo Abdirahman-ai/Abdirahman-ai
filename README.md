@@ -19,7 +19,7 @@ PREVIOUS VERSION ENDS HERE
 
  
 # 💫 About Me: 
-- 🔭 I’m currently working on building an event Website Using Html, CSS, JavaScript and ReacJs
+- 🔭 I’m currently working:  on building an event Website Using Html, CSS, JavaScript and ReacJs
 - 🌱 I’m currently learning Learn:  Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, MySQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
