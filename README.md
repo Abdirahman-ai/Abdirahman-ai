@@ -22,13 +22,13 @@ PREVIOUS VERSION ENDS HERE
 - 🌱 I’m currently learning **Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, and MySQL**.
 - 👯 I’m looking to collaborate on **web development, mobile development, and Spring Boot projects**.
 - 💬 Ask me about **Android development, web development, and problem-solving**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdi-m-a3a4941a5/)**  
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdinahmen-ahmed-a3a4941a5/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-m-a3a4941a5/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdirahman-ai)
 
 ---
