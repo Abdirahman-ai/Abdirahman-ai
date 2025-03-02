@@ -44,10 +44,6 @@ PREVIOUS VERSION ENDS HERE
   </a>
 </p>
 
-
-
----
-
 <!--
 ## 💻 Tech Stack:
 ### 🚀 Programming Languages:
