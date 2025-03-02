@@ -124,7 +124,6 @@ PREVIOUS VERSION ENDS HERE
     </td>
   </tr>
 </table>
----
 
 ## 📊 GitHub Stats:
 <!-- ![Abdirahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=radical)
@@ -144,7 +143,6 @@ PREVIOUS VERSION ENDS HERE
     </td>
   </tr>
 </table>
-
 
 🚀 **Let's build something amazing together!**
 
