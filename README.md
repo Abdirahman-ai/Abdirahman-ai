@@ -36,7 +36,7 @@ PREVIOUS VERSION ENDS HERE
   <a href="https://www.linkedin.com/in/abdi-m-a3a4941a5/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abdinahmen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/abdirahman-ai">
