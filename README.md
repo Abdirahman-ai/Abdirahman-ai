@@ -65,6 +65,7 @@ PREVIOUS VERSION ENDS HERE
 ## 📊 GitHub Stats:
 ![Abdirahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark)](https://git.io/streak-stats)
 ---
 
 🚀 **Let's build something amazing together!**
