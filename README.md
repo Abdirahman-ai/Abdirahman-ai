@@ -74,7 +74,6 @@ PREVIOUS VERSION ENDS HERE
 -->
 
 ## 💻 Tech Stack:
-
 <table>
   <tr>
     <th>🚀 Programming Languages</th>
