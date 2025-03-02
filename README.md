@@ -48,6 +48,7 @@ PREVIOUS VERSION ENDS HERE
 
 ---
 
+<!--
 ## 💻 Tech Stack:
 ### 🚀 Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -74,7 +75,60 @@ PREVIOUS VERSION ENDS HERE
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+-->
+## 💻 Tech Stack:
 
+<table>
+  <tr>
+    <th>🚀 Programming Languages</th>
+    <th>🌐 Web Development</th>
+    <th>📱 Mobile Development</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/Thymeleaf-%23005C88.svg?style=for-the-badge&logo=thymeleaf&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Android-%2300f.svg?style=for-the-badge&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/Jetpack-%236DB33F.svg?style=for-the-badge&logo=android&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>🛠 Backend & Databases</th>
+    <th>🔧 Tools</th>
+    <th>🧪 Testing</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit&logoColor=white">
+      <img src="https://img.shields.io/badge/Mockito-%236DB33F.svg?style=for-the-badge&logo=mockito&logoColor=white">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats:
