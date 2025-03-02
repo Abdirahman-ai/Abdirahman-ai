@@ -72,6 +72,7 @@ PREVIOUS VERSION ENDS HERE
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 -->
+
 ## 💻 Tech Stack:
 
 <table>
