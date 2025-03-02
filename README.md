@@ -25,7 +25,6 @@ PREVIOUS VERSION ENDS HERE
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdi-m-a3a4941a5/)**  
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
 
----
 ## 🌐 Connect with Me:
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-m-a3a4941a5/)  
