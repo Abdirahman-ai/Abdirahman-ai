@@ -63,10 +63,25 @@ PREVIOUS VERSION ENDS HERE
 ---
 
 ## 📊 GitHub Stats:
-![Abdirahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=radical)
+<!-- ![Abdirahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark)](https://git.io/streak-stats)
----
+##
+-->
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
 
 🚀 **Let's build something amazing together!**
 
