@@ -68,7 +68,6 @@ PREVIOUS VERSION ENDS HERE
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark)](https://git.io/streak-stats)
 ##
 -->
-## 📊 GitHub Stats:
 <table>
   <tr>
     <td>
