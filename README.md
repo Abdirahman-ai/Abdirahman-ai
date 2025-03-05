@@ -139,7 +139,7 @@ PREVIOUS VERSION ENDS HERE
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=dark" alt="GitHub Stats"/> 
+      <img src="https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=dark" alt="GitHub Stats"/>  
     </td>
   </tr>
 </table>
