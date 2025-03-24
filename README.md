@@ -135,7 +135,7 @@ PREVIOUS VERSION ENDS HERE
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark"/>
+        <img src="https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark"/> 
       </a>
     </td>
     <td>
