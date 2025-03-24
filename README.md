@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns ...  
-- ⚡ Fun fact ...
+- ⚡ Fun fact ... 
 PREVIOUS VERSION ENDS HERE   
 --> 
 
@@ -25,7 +25,7 @@ PREVIOUS VERSION ENDS HERE
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdi-m-a3a4941a5/)**  
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me: 
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-m-a3a4941a5/)  
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdinahmen@gmail.com)  
