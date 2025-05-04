@@ -148,5 +148,7 @@ PREVIOUS VERSION ENDS HERE
 </table>
 
 🚀 **Let's build something amazing together!**
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=abdirahman-ai)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
