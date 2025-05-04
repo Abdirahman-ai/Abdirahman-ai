@@ -148,5 +148,5 @@ PREVIOUS VERSION ENDS HERE
 </table>
 
 🚀 **Let's build something amazing together!**
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
