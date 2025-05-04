@@ -18,12 +18,16 @@ PREVIOUS VERSION ENDS HERE
 --> 
 
 # 💫 About Me:
-- 🔭 I’m currently working on building an event website using **HTML, CSS, JavaScript, and ReactJS**. [Live Project](https://bubblegum-kind-whale-776.vscodeedu.app)
+- 🔭 I’m currently working on building an event website using **HTML, CSS, JavaScript, and ReactJS**. [Live Project](https://bubblegum-kind-whale-776.vscodeedu.app/?ref=github-profile)
 - 🌱 I’m currently learning **Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, and PostgreSQL**.
 - 👯 I’m looking to collaborate on **web development, mobile development, and Spring Boot projects**.
 - 💬 Ask me about **Android development, web development, and problem-solving**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdi-m-a3a4941a5/)**  
+- 🔗 View my GitHub with tracking: [https://bit.ly/abdi-github-profile](https://bit.ly/abdi-github-profile)
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
+
+<!-- To view clicks, log in to your Bitly dashboard and check analytics for the link above -->
+
 
 ## 🌐 Connect with Me:
 <!-- 
