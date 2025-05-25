@@ -18,7 +18,8 @@ PREVIOUS VERSION ENDS HERE
 --> 
 
 # 💫 About Me:
-- 🔭 I’m currently working on building an event website using **HTML, CSS, JavaScript, and ReactJS**. [Live Project](https://bubblegum-kind-whale-776.vscodeedu.app/?ref=github-profile)
+- 🔭 I’m currently working on building an event website using **HTML, CSS, JavaScript, and ReactJS**.
+  <!-- [Live Project](https://bubblegum-kind-whale-776.vscodeedu.app/?ref=github-profile) -->
 - 🌱 I’m currently learning **Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, and PostgreSQL**.
 - 👯 I’m looking to collaborate on **web development, mobile development, and Spring Boot projects**.
 - 💬 Ask me about **Android development, web development, and problem-solving**.
