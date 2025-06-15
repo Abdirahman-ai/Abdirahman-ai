@@ -144,7 +144,9 @@ PREVIOUS VERSION ENDS HERE
       </a>
     </td>
     <td>
-       <img src="https://streak-stats.demolab.com?user=abdirahman-ai&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+       <p align="center">
+          <img src="https://streak-stats.demolab.com?user=abdirahman-ai&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+       </p>
        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdirahman-ai&theme=tokyo-night&hide_border=true"/>
     </td>
   </tr>
