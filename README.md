@@ -140,11 +140,12 @@ PREVIOUS VERSION ENDS HERE
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark&timezone=America/Chicago"/> 
+<!--         <img src="https://streak-stats.demolab.com/?user=abdirahman-ai&theme=dark&timezone=America/Chicago"/>  -->
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abdirahman-ai&show_icons=true&theme=dark" alt="GitHub Stats"/>  
+       <img src="https://streak-stats.demolab.com?user=abdirahman-ai&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdirahman-ai&theme=tokyo-night&hide_border=true"/>
     </td>
   </tr>
 </table>
