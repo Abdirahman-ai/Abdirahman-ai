@@ -19,7 +19,7 @@ PREVIOUS VERSION ENDS HERE
 # 💫 About Me
 - 🔭 I’m currently building an event website using **HTML, CSS, JavaScript, and ReactJS**.
 - 🌱 I’m currently learning **Spring Core, Spring REST, MVC, Security**, **Thymeleaf**, **JPA/Hibernate**, and **PostgreSQL**.
-- 👯 Open to collaborating on **web**, **mobile**, and **Spring Boot** projects.
+- 👯 I’m looking to collaborating on **web**, **mobile**, and **Spring Boot** projects.
 - 💬 Ask me about **Android development**, **web dev**, or **problem-solving**.
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/abdi-m-a3a4941a5/)
 - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
