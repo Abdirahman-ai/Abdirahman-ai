@@ -22,7 +22,7 @@ PREVIOUS VERSION ENDS HERE
 - 👯 I’m looking to collaborating on **web**, **mobile**, and **Spring Boot** projects.
 - 💬 Ask me about **Android development**, **web dev**, or **problem-solving**.
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/abdi-ahmed-a3a4941a5/)
-- ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!**
+<!-- - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!** -->
 
 ---
 
