@@ -21,7 +21,7 @@ PREVIOUS VERSION ENDS HERE
 - 🌱 I’m currently learning **Spring Core, Spring REST, MVC, Security**, **Thymeleaf**, **JPA/Hibernate**, and **PostgreSQL**.
 - 👯 I’m looking to collaborating on **web**, **mobile**, and **Spring Boot** projects.
 - 💬 Ask me about **Java Development**, **Android development**, **Web Apps** or **problem-solving**.
-- 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/abdi-ahmed-a3a4941a5/)
+- 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/abdi-ahmed-a3a4941a5/) 
 <!-- - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!** -->
 
 ---
