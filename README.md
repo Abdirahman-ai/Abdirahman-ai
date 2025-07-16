@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 PREVIOUS VERSION ENDS HERE 
 --> 
 # 💫 About Me
-- 🔭 I’m currently building **CodeRadar**, a full-stack project tracking app using **Spring Boot**, **PostgreSQL**, and **Angular**.
+- 🔭 I’m currently building **CodeRadar**, a full-stack project tracking app using **Java**,  **Spring Boot**, **PostgreSQL**, and **Angular**.
 - 🌱 I’m currently learning **Spring Core, Spring REST, MVC, Security**, **Thymeleaf**, **JPA/Hibernate**, and **PostgreSQL**.
 - 👯 I’m looking to collaborating on **web**, **mobile**, and **Spring Boot** projects.
 - 💬 Ask me about **Java Development**, **Android development**, **Web Apps** or **problem-solving**.
