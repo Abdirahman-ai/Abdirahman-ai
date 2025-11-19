@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns ...  
 - ⚡ Fun fact ... 
 PREVIOUS VERSION ENDS HERE  
---> 
+-->
 ## 💫 About Me
 - 🔭 I’m currently building **CodeRadar** — a full-stack team project contribution tracker web app using **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.  
 - 🌱 I’m deepening my knowledge in **Spring Core**, **Spring MVC**, **REST APIs**, **Spring Security**, **JPA/Hibernate**, **Thymeleaf**, and **PostgreSQL**.  
