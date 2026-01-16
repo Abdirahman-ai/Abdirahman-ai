@@ -19,7 +19,7 @@ PREVIOUS VERSION ENDS HERE
 - 🔭 I’m currently building **CodeRadar** — a full-stack team project contribution tracker web app using **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.  
 - 🌱 I’m deepening my knowledge in **Spring Core**, **Spring MVC**, **REST APIs**, **Spring Security**, **JPA/Hibernate**, **Thymeleaf**, and **PostgreSQL**.  
 - 👯 I’m open to collaborating on **web**, **mobile**, and **Spring Boot** projects.  
-- 💬 Feel free to ask me about **Java development**, **Android development**, **web apps**, or **problem-solving** strategies.  
+- 💬 Feel free to ask me about **Java development**, **Android development**, **web apps**, or  **problem-solving** strategies.  
 - 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/)
 
 <!-- - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!** -->
