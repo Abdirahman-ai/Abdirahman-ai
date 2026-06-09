@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 PREVIOUS VERSION ENDS HERE   
 --> 
 ## 💫 About Me
-- 🔭 I’m currently building **CodeRadar** — a full-stack team project contributiontracker web app using **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.  
-- 🌱 I’m deepening my knowledge in **Spring Core**, **Spring MVC**, **REST APIs**, **Spring Security**, **JPA/Hibernate**, **Thymeleaf**, and **PostgreSQL**.  
-- 👯 I’m open to collaborating on **web**, **mobile**, and **Spring Boot** projects.   
-- 💬 Feel free to ask me about **Java development**, **Android development**, **web apps**, or  **problem-solving** strategies.  
-- 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/)
+
+* 🔭 I’m currently building data-driven and full-stack applications using **Python**, **FastAPI**, **Pandas**, **NumPy**, **Matplotlib**, **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.
+* 🌱 I’m expanding my skills in **Data Engineering**, **Data Analytics**, **Python**, **SQL**, **Pandas**, **NumPy**, **Data Visualization**, **FastAPI**, and modern backend development.
+* 👯 I’m open to collaborating on **data engineering**, **data analytics**, **Python**, **web**, and **mobile** projects.
+* 💬 Feel free to ask me about **Python**, **Java**, **SQL**, **data analysis**, **Android development**, **web applications**, and **problem-solving** strategies.
+* 📊 Recent projects include building analytics applications using **SQLite**, **Pandas**, **NumPy**, **Matplotlib**, **FastAPI**, and **Postman** for data processing, reporting, and visualization.
+* 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/)
+
+<!-- - ⚡ Fun fact: I enjoy building projects that combine software engineering with data analytics and automation! -->
+
 
 <!-- - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!** -->
 
