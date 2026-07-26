@@ -80,7 +80,7 @@ PREVIOUS VERSION ENDS HERE
     <th>🛠 Backend</th>
     <th>🔧 Tools</th>
     <th>🧪 Testing</th>
-  </tr>
+  </tr> 
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
