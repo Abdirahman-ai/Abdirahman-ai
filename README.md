@@ -24,7 +24,7 @@ PREVIOUS VERSION ENDS HERE
 * 👯 I’m open to collaborating on **data engineering**, **data analytics**, **Python**, **web**, and **mobile** projects.
 * 💬 Feel free to ask me about **Python**, **Java**, **SQL**, **data analysis**, **Android development**, **web applications**, and **problem-solving** strategies.
 * 📊 Recent projects include building analytics applications using **SQLite**, **Pandas**, **NumPy**, **Matplotlib**, **FastAPI**, and **Postman** for data processing, reporting, and visualization.
-* 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/)
+* 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/) 
 
 <!-- - ⚡ Fun fact: I enjoy building projects that combine software engineering with data analytics and automation! --> 
 
