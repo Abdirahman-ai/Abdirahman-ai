@@ -26,7 +26,7 @@ PREVIOUS VERSION ENDS HERE
 * 📊 Recent projects include building analytics applications using **SQLite**, **Pandas**, **NumPy**, **Matplotlib**, **FastAPI**, and **Postman** for data processing, reporting, and visualization.
 * 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdinahmen-a3a4941a5/)
 
-<!-- - ⚡ Fun fact: I enjoy building projects that combine software engineering with data analytics and automation! -->
+<!-- - ⚡ Fun fact: I enjoy building projects that combine software engineering with data analytics and automation! --> 
 
 
 <!-- - ⚡ Fun fact: **I love solving LeetCode problems and exploring new tech stacks!** -->
