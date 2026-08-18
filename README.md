@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 PREVIOUS VERSION ENDS HERE  
 --> 
-## 💫 About Me
+## 💫 About Me 
 
 * 🔭 I’m currently building data-driven and full-stack applications using **Python**, **FastAPI**, **Pandas**, **NumPy**, **Matplotlib**, **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.
 * 🌱 I’m expanding my skills in **Data Engineering**, **Data Analytics**, **Python**, **SQL**, **Pandas**, **NumPy**, **Data Visualization**, **FastAPI**, and modern backend development.
