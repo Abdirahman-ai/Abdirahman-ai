@@ -20,7 +20,7 @@ PREVIOUS VERSION ENDS HERE
 ## 💫 About Me 
 
 * 🔭 I’m currently building data-driven and full-stack applications using **Python**, **FastAPI**, **Pandas**, **NumPy**, **Matplotlib**, **Java**, **Spring Boot**, **PostgreSQL**, and **Angular**.
-* 🌱 I’m expanding my skills in **Data Engineering**, **Data Analytics**, **Python**, **SQL**, **Pandas**, **NumPy**, **Data Visualization**, **FastAPI**, and modern backend development.
+* 🌱 I’m expanding my skills in **Data Engineering**, **Data Analytics**, **Java Full-Stack Development**, **Python**, **SQL**, **Pandas**, **NumPy**, **Data Visualization**, **FastAPI**, and modern backend development.
 * 👯 I’m open to collaborating on **data engineering**, **data analytics**, **Python**, **web**, and **mobile** projects.
 * 💬 Feel free to ask me about **Python**, **Java**, **SQL**, **data analysis**, **Android development**, **web applications**, and **problem-solving** strategies.
 * 📊 Recent projects include building analytics applications using **SQLite**, **Pandas**, **NumPy**, **Matplotlib**, **FastAPI**, and **Postman** for data processing, reporting, and visualization.
