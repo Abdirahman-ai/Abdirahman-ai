@@ -35,72 +35,27 @@ I enjoy designing backend systems, building full-stack applications, working wit
 
 ## 💻 Tech Stack
 
-### 🚀 Programming Languages
+**🚀 Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,kotlin,html,css&perline=12)](https://skillicons.dev)
 
-### 🌐 Backend & Full-Stack Development
+**🌐 Backend & Frontend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+[![Development](https://skillicons.dev/icons?i=spring,fastapi,angular,nodejs,hibernate,maven&perline=12)](https://skillicons.dev)
 
-### 📊 Data Engineering & Big Data
+**📊 Data Engineering & Analytics**
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="38" height="38" alt="Apache Spark"/> <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="38" height="38" alt="Apache Kafka"/> <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="38" height="38" alt="Apache Airflow"/> <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="38" height="38" alt="Snowflake"/> <img src="https://cdn.simpleicons.org/dbt/FF694B" width="38" height="38" alt="dbt"/> <img src="https://cdn.simpleicons.org/pandas/150458" width="38" height="38" alt="Pandas"/> <img src="https://cdn.simpleicons.org/numpy/013243" width="38" height="38" alt="NumPy"/> <img src="https://cdn.simpleicons.org/apachehadoop/FFCC00" width="38" height="38" alt="Hadoop"/>
 
-### 🗄️ Databases
+**☁️ Cloud, Databases & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+[![Cloud and Databases](https://skillicons.dev/icons?i=aws,docker,postgres,mysql,sqlite,git,github,linux&perline=12)](https://skillicons.dev)
 
-### ☁️ Cloud & DevOps
+**🧪 Testing, Tools & Mobile**
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=postman,visualstudio,idea,androidstudio,firebase,pytest&perline=12)](https://skillicons.dev)
 
-**AWS Services:** S3, EC2, Lambda, RDS, EMR, Elastic Beanstalk, and Glue.
-
-### 🧠 Data Science, Analytics & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black)
-
-**Additional Areas:** LLM Applications, RAG, AI Agents, Data Visualization, Power Query, and DAX.
-
-### 📱 Mobile Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### 🧪 Testing & Development Tools
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+---
 
 ---
 
