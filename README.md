@@ -53,14 +53,16 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 
 <div align="center">
 
+<!-- GitHub Streak Stats -->
 <img
   src="https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&timezone=America/Chicago"
   alt="GitHub Streak Stats"
   width="480"
 />
 
-<br><br>
+<br>
 
+<!-- GitHub Contribution Line Graph -->
 <img
   src="https://raw.githubusercontent.com/Abdirahman-ai/Abdirahman-ai/output/activity-graph.svg"
   alt="GitHub Contribution Activity Graph"
