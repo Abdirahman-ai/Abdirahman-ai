@@ -1,20 +1,18 @@
 <div align="center">
 
-# Hi there, I'm Abdinahmen! 👋
+# Hi, I'm Abdinahmen! 👋
 
-### 💻 Software Engineering | Data Engineering | Cloud & AI
+**Software Engineering | Data Engineering | AI**
 
-🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities
+🎓 B.S. Computer Science — University of Minnesota–Twin Cities
 
-Passionate about building scalable applications, developing data pipelines, and solving real-world problems through technology.
+Passionate about building scalable applications, data pipelines, and AI-powered solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-ahmed-a3a4941a5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://abdirahman-ai.github.io/portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdinahmen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdinahmen@gmail.com)
 
 </div>
-
----
 
 ## 💫 About Me
 
@@ -56,20 +54,15 @@ I enjoy designing backend systems, building full-stack applications, working wit
 [![Tools](https://skillicons.dev/icons?i=postman,visualstudio,idea,androidstudio,firebase,pytest&perline=12)](https://skillicons.dev)
 
 ---
-
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=America%2FChicago)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdirahman-ai&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=America/Chicago"
+    alt="GitHub Streak Stats"
+    width="480"
+  />
+</p>
 
 ## 🌐 Let's Connect!
 
