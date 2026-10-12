@@ -68,4 +68,3 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 />
 
 </div>
----
