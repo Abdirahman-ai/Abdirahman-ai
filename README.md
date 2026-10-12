@@ -59,6 +59,8 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
   width="480"
 />
 
+<br><br>
+
 <img
   src="https://raw.githubusercontent.com/Abdirahman-ai/Abdirahman-ai/output/activity-graph.svg"
   alt="GitHub Contribution Activity Graph"
@@ -66,5 +68,4 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 />
 
 </div>
-
 ---
