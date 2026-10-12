@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there, I'm Abdinahmen! 👋
@@ -110,66 +109,6 @@ I enjoy designing backend systems, building full-stack applications, working wit
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 FitFindr — AI-Powered Outfit Recommendation Agent
-**Technologies:** Python, LLMs, Tool Calling, Agent Workflows
-
-- Built a tool-using AI agent that helps users find clothing items and generate outfit suggestions.
-- Designed a multi-step workflow integrating product search, item selection, and outfit recommendations.
-- Implemented structured tool interfaces, state tracking, and acceptance criteria to evaluate agent behavior.
-
-### 🧠 Retrieval-Augmented Generation (RAG) Application
-**Technologies:** Python, LLMs, Semantic Retrieval, Text Chunking
-
-- Developed a retrieval-based question-answering application using a collection of advice threads.
-- Implemented text chunking and retrieval evaluation to improve answer relevance.
-- Established acceptance criteria and confidence thresholds for handling questions outside the available knowledge base.
-
-### 🌐 Full-Stack Project Management Dashboard
-**Technologies:** Java, Spring Boot, Angular, PostgreSQL
-
-- Developed a full-stack application for managing projects, tasks, and related information.
-- Built RESTful APIs using Spring Boot and integrated them with an Angular frontend.
-- Implemented database operations and tested API endpoints using Postman.
-
-### 🚁 Drone Delivery Simulation
-**Technologies:** C++, JavaScript, HTML, CSS
-
-- Developed a drone delivery simulation featuring route planning and delivery management.
-- Applied graph algorithms including A*, Dijkstra's, and Depth-First Search.
-- Implemented battery-aware routing and charging station logic.
-- Applied object-oriented design patterns to improve system organization.
-
-### 🖥️ Multi-Threaded HTTP Server
-**Technologies:** C, POSIX Threads, TCP Sockets, Linux
-
-- Developed a concurrent HTTP/1.0 server using socket programming and multithreading.
-- Implemented a worker thread pool and synchronized request queue.
-- Used mutexes and condition variables to coordinate concurrent requests.
-- Practiced network programming, thread synchronization, and systems-level development.
-
-### 📱 iHomie — Real Estate Android Application
-**Technologies:** Kotlin, Android, REST APIs, Firebase
-
-- Collaborated on an Android application for searching and exploring real estate listings.
-- Implemented authentication and API integration.
-- Contributed to features supporting property search, mapping, and user interactions.
-
----
-
-## 📚 Continuous Learning & Professional Development
-
-- 🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities, 2024
-- 📊 **Data Engineering Training — Revature:** Python, SQL, PySpark, Kafka, Airflow, Snowflake, dbt, Power BI, and AWS.
-- 🤖 **CodePath AI201:** AI application development, RAG, tool-using agents, and evaluation.
-- 💻 **CodePath:** Android Development, Web Development, and Technical Interview Preparation.
-- ☁️ **Cloud101:** Cloud computing fundamentals.
-- 🧠 **AI Fluency:** AI concepts and practical applications.
-- 📡 **AT&T Technology Academy (2024):** Technology-focused professional development.
 
 ---
 
