@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Abdinahmen! 👋
@@ -50,10 +49,26 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 
 ---
 
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=America%2FChicago)
+<!-- GitHub Streak Statistics -->
+<img
+  src="https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=America/Chicago"
+  alt="GitHub Streak Stats"
+  width="480"
+/>
+
+<!-- GitHub Contribution Activity Line Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdirahman-ai&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Contribution Activity Graph"
+  width="95%"
+/>
 
 </div>
+
+---
+
