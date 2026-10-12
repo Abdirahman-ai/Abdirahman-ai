@@ -1,0 +1,12 @@
+
+name: Update GitHub Activity Graph
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify GitHub Actions
+        run: echo "GitHub Actions workflow is working!"
