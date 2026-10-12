@@ -48,27 +48,27 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 <img src="https://skillicons.dev/icons?i=postman,vscode,idea,androidstudio,firebase,pytest&perline=12" alt="Development Tools" height="38"/>
 
 ---
-
  
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Streak Statistics -->
 <img
-  src="https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=America/Chicago"
+  src="https://streak-stats.demolab.com?user=Abdirahman-ai&theme=tokyonight&hide_border=true&timezone=America/Chicago"
   alt="GitHub Streak Stats"
   width="480"
 />
 
-<!-- GitHub Contribution Activity Line Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdirahman-ai&theme=tokyo-night&hide_border=true&area=true"
+  src="https://raw.githubusercontent.com/Abdirahman-ai/Abdirahman-ai/output/activity-graph.svg"
   alt="GitHub Contribution Activity Graph"
   width="95%"
 />
 
 </div>
+
+---
+
 
 ---
 
