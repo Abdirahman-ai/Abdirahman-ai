@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdinahmen! 👋
 
-**Software Engineering | Data Engineering | AI** 
+**Software Engineering | Data Engineering | AI**
 
 🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities
 
