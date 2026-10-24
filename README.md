@@ -16,7 +16,7 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 
 ---
 
-## 💫 About Me
+## 💫 About Me 
 
 - 💻 **Software Engineering:** Full-stack applications, REST APIs, and backend systems.
 - 📊 **Data Engineering:** ETL pipelines, distributed data processing, and cloud technologies.
