@@ -4,7 +4,7 @@
 
 **Software Engineering | Data Engineering | AI**  
 
-🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities
+🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities 
 
 Building software, data pipelines, and AI-powered applications to solve real-world problems.
 
