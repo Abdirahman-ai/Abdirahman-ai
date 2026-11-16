@@ -6,7 +6,7 @@
 
 🎓 **B.S. Computer Science** — University of Minnesota–Twin Cities 
 
-Building software, data pipelines, and AI-powered applications to solve real-world problems.
+Building software, data pipelines, and AI-powered applications to solve real-world problems. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdi-ahmed-a3a4941a5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white)](https://abdirahman-ai.github.io/portfolio/)
