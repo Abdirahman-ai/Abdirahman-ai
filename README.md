@@ -12,7 +12,7 @@ Building software, data pipelines, and AI-powered applications to solve real-wor
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white)](https://abdirahman-ai.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdinahmen@gmail.com)
 
-</div>
+</div> 
 
 ---
 
